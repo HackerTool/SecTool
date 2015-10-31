@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=dot -h; sudo -s
+Name=GraphViz - DOT
+Categories=Visualize
+Icon=gnome-panel-launcher

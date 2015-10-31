@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=bash /opt/davix/scripts/mondrian
+Name=Mondrian
+Categories=Visualize
+Icon=gnome-panel-launcher

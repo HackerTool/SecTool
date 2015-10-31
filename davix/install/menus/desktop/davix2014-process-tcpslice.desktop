@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Process
+Encoding=UTF-8
+Exec=tcpslice -h; sudo -s
+Hidden=false
+Name=tcpslice
+Terminal=true
+Type=Application

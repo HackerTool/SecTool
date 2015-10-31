@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Service
+Encoding=UTF-8
+Exec=sudo /etc/init.d/rsyslog stop && sudo /etc/init.d/syslog-ng start
+Hidden=false
+Name=syslog-ng start
+Terminal=true
+Type=Application

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=sudo prads -i eth0
+Name=PRADs Start
+Categories=Service
+Icon=gnome-panel-launcher

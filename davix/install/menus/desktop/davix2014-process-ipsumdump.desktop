@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Name[en_US]=ipsumdump
+Exec=ipsumdump -h; sudo -s
+Categories=Process
+Name=ipsumdump

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=gnome-panel-launcher
+Name[en_US]=GUESS
+Exec=/opt/davix/guess/guess.sh
+Name=GUESS
+Categories=Visualize
+Icon=gnome-panel-launcher

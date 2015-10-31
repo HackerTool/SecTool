@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Service
+Encoding=UTF-8
+Exec=sudo /etc/init.d/rsyslog stop
+Hidden=false
+Name=rsyslog stop
+Terminal=true
+Type=Application

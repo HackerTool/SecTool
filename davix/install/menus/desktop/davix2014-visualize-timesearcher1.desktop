@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=Timesearcher 1
+Icon=gnome-panel-launcher
+Categories=Visualize
+Exec=/opt/davix/scripts/timesearcher1

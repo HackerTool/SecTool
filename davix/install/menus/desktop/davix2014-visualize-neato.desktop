@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=neato -h; sudo -s
+Name=GraphViz - neato
+Categories=Visualize
+Icon=gnome-panel-launcher

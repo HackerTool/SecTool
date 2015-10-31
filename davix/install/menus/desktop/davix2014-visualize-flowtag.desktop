@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=flowtag; sudo -s
+Name=FlowTag
+Categories=Visualize
+Icon=gnome-panel-launcher

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=gnome-panel-launcher
+Name[en_US]=whois
+Exec=cat /opt/davix/cmdline-help/whois.txt; sudo -s
+Name=whois
+Categories=Capture
+Icon=gnome-panel-launcher

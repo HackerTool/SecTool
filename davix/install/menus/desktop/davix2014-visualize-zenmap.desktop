@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Visualize
+Encoding=UTF-8
+Exec=zenmap
+Hidden=false
+Name=ZenMap
+Terminal=false
+Type=Application

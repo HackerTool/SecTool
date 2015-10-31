@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=Visualize
+Comment=Gnuplot - interactive plotting program
+Encoding=UTF-8
+Exec=gnuplot
+Hidden=false
+Name=Gnuplot
+Terminal=true
+Type=Application

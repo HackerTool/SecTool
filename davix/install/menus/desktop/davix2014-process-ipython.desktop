@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Process
+Encoding=UTF-8
+Exec=sudo ipython
+Hidden=false
+Name=iPython
+Terminal=true
+Type=Application

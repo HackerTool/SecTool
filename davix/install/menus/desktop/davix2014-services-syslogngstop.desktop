@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Service
+Encoding=UTF-8
+Exec=sudo /etc/init.d/syslog-ng stop
+Hidden=false
+Name=syslog-ng stop
+Terminal=true
+Type=Application

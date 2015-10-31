@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Name[en_US]=BroIDS
+Exec=/opt/davix/broids/bin/broctl
+Categories=Capture
+Name=BroIDS

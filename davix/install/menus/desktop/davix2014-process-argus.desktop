@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Process
+Encoding=UTF-8
+Exec=argus -h; sudo -s
+Hidden=false
+Name=Argus Client
+Terminal=true
+Type=Application

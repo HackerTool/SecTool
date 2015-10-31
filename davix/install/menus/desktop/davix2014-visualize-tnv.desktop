@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Visualize
+Encoding=UTF-8
+Exec=bash /opt/davix/scripts/tnv
+Hidden=false
+Name=tnv
+Terminal=false
+Type=Application

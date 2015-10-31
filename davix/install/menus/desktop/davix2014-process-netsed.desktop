@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Process
+Encoding=UTF-8
+Exec=netsed -h; sudo -s
+Hidden=false
+Name=netsed
+Terminal=false
+Type=Application

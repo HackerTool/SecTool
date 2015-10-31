@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Process
+Encoding=UTF-8
+Exec=tcpxtract -h; sudo -s
+Hidden=false
+Name=tcpxtract
+Terminal=true
+Type=Application

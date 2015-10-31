@@ -1,0 +1,52 @@
+8
+
+dir
+367
+http://inav.scaparra.com/INAV/server/utilities
+http://inav.scaparra.com/INAV
+
+
+
+2007-07-26T03:34:23.008662Z
+323
+scap
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6004118f-da27-0410-86d5-e2dcc275f102
+
+communicationReader.cpp
+file
+
+
+
+
+2007-10-24T02:32:08.000000Z
+0c73d41f7be0202d2bd539985ed8769e
+2007-07-26T03:34:23.008662Z
+323
+scap
+
+makefile
+file
+
+
+
+
+2007-10-24T02:32:08.000000Z
+dd7812e265c92c24cb8979744fa4b149
+2007-05-09T06:53:29.063656Z
+220
+scap
+

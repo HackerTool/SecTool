@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Process
+Encoding=UTF-8
+Exec=tcpreplay -h; sudo -s
+Hidden=false
+Name=tcpreplay
+Terminal=true
+Type=Application

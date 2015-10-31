@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Name[en_US]=dnstop
+Exec=dnstop -h; sudo -s
+Categories=Capture
+Name=dnstop

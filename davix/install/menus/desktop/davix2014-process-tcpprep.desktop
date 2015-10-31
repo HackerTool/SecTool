@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Process
+Encoding=UTF-8
+Exec=tcpprep -h; sudo -s
+Hidden=false
+Name=tcpprep
+Terminal=true
+Type=Application

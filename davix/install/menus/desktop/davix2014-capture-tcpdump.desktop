@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Name[en_US]=tcpdump
+Exec=sudo tcpdump
+Categories=Capture
+Name=tcpdump

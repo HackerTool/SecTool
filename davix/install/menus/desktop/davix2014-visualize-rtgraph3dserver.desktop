@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Visualize
+Encoding=UTF-8
+Exec=/opt/davix/rtgraph3d-0.1/rtgraph3d.py
+Hidden=false
+Name=RT Graph 3D Server
+Terminal=false
+Type=Application

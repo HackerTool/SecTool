@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=sudo /etc/init.d/argus-server stop
+Name=Argus Server Stop
+Categories=Service
